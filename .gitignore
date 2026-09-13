@@ -1,0 +1,5 @@
+node_modules/
+/docs/
+/qa/
+.DS_Store
+.github/workflows/deploy-pages.yml.bak
