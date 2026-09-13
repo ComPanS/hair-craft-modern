@@ -3,7 +3,7 @@
   "version": "1.0",
   "sourceUrl": "https://haircraftkzn.clients.site/",
   "projectPath": "/Users/aizat/Documents/Projects/RestoredOldSites/hair-craft-modern",
-  "phase": "LOCAL_HANDOFF",
+  "phase": "COMPLETE",
   "openingClassification": "profile site",
   "source": {
     "language": "ru",
@@ -30,5 +30,13 @@
       "basePathBuild": "/hair-craft-modern/"
     }
   },
-  "publication": { "approved": false }
+  "publication": {
+    "approved": true,
+    "repositoryUrl": "https://github.com/ComPanS/hair-craft-modern",
+    "pagesUrl": "https://compans.github.io/hair-craft-modern/"
+  },
+  "postPublication": {
+    "screenshots": ["outreach/screenshots/landing.jpg"],
+    "clientMessagePresented": true
+  }
 }
